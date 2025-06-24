@@ -6,11 +6,11 @@ arr[0] = false;
 arr[1] = false;
 
 for(let i=2; i*i<=n; i++){
-    // console.log(i)
+    // console.log(i);
     if(arr[i]){
     for(let j=i*i; j<=n; j=j+i){
         arr[j]= false;
-        // console.log(j)
+        //console.log(j);
     }
     }
 }
