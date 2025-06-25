@@ -11,11 +11,30 @@ for(let ele of arr){
 
 console.log(output);
 
-
-
-
-
 // const arr = [1, 2, 2, 3, 4, 4, 5];
 
 // const unique = arr.filter((value, index) => arr.indexOf(value)=== index)
 // console.log(unique)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
